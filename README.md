@@ -4,7 +4,7 @@ https://youtu.be/1zcInEZZkhc
 
 <div align="center">
   <a href="https://youtu.be/1zcInEZZkhc">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Watch the video" style="width:100%;">
+    <img src="https://github.com/user-attachments/assets/d74836e0-84bd-45ef-a317-4b1cf2024ddf" alt="Watch the video" style="width:100%;">
   </a>
 </div>
 
